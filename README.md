@@ -1,16 +1,9 @@
 ### Hi (:
 
-<!--
-**lucaatme/lucaatme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaatme&show_icons=true&theme=radical)
 
 🎓 Bachelor's Degree ~ Computer Engineering
 📚 Master's Degree ~ Cybersecurity
-
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+🧑🏼‍💻 Interested in Social Networks and Cyberphysical Systems
+🌭 <- This is a Hot Dog
