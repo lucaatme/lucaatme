@@ -4,6 +4,6 @@
   
 📚 - Master's Degree ~ Cybersecurity  
   
-🧑🏼‍💻 - Interested in Social Networks Analysis and Cyberphysical Systems  
+🧑🏼‍💻 - Interested in Social Networks Analysis and Cyber Physical Systems  
   
 📫 - luca.cosuti@outlook.com
