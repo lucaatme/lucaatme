@@ -1,4 +1,4 @@
-### Hi (:
+### Hi!
 
 🎓 - Bachelor's Degree ~ Computer Engineering  
   
