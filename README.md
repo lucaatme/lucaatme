@@ -5,6 +5,8 @@
 📚 - Master's Degree ~ Cybersecurity  
   
 🧑🏼‍💻 - Interested in Social Networks Analysis and Networking
+
+🌎 - Fun Fact: Geoguessr Enthusiast 
   
 📫 - luca.cosuti@outlook.com
 
