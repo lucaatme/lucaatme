@@ -2,7 +2,7 @@
 
 🎓 - Bachelor's Degree ~ Computer Engineering  
   
-📚 - Master's Degree ~ Cybersecurity  
+🎓 - Master's Degree ~ Cybersecurity  
   
 🧑🏼‍💻 - Interested in Social Networks Analysis and Networking
 
